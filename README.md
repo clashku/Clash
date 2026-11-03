@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://github.com/clashku/Clash" title="Clash官网下载客户端分享">
+  <a href="https://github.com/clashku/Clash" title="从旧 Clash 迁到维护中客户端">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/22b7cf80-912f-4a19-96fb-521f72c88d8a" />
 
   </a>
-  <h1>Clash官网下载客户端分享 (2026年11月更新)</h1>
+  <h1>从旧 Clash 迁到维护中客户端 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台官网下载客户端分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>迁移动因、步骤与新旧对照；安装包仍走官方 Releases</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
