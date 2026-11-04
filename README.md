@@ -18,6 +18,8 @@
 
 [代理雷达](https://github.com/guiforcores/dailileida)：每日追踪 mihomo、sing-box、Xray、V2Ray、Clash 及自研内核的代理客户端：开源项目看 GitHub Star，商店应用看美区 App Store / Google Play 评分数。
 
+[节点雷达](https://jiedianleida.com/)：迁移完成后的订阅试水池——免费 V2Ray / Clash / SS / Trojan 节点每日测速，换端后可先导入验证连通。
+
 本页按 **从旧 Clash 迁到维护中客户端** 来写：先讲为什么要迁、迁什么、怎么迁，再给出维护中下载与节点入口。教程域名以 [clashku.com](https://clashku.com/) 为准；安装包以各项目 GitHub Releases（或本页标明的备份仓）为准。标题里的 `YYYY年M月更新` 与徽章 `Update-YYYY.MM` 请保持原格式，由例行任务改日期。
 
 ---
